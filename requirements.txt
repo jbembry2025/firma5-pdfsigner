@@ -2,3 +2,4 @@ flask
 PyPDF2
 pillow
 reportlab
+requests
